@@ -3,6 +3,7 @@ This repo contains the code used to solve the FrozenLake[V1] problem using Dynam
 
 # Description
 ![alt text](https://github.com/kwquan/FrozenLake/FrozenLakeV1.png)
+
 In this notebook[FrozenLake.ipynb], we shall solve the environment Frozen Lake using Dynamic Programming. \
 Aim: Frozen lake involves crossing a frozen lake from Start(S) to Goal(G) without falling into any Holes(H) by walking over the Frozen(F) lake. 
 The agent may not always move in the intended direction due to the slippery nature of the frozen lake. Here, we only consider the deterministic problem[no slipping] \
