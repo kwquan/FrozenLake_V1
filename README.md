@@ -15,3 +15,5 @@ Rewards:
 2) Reach hole(H): 0
 3) Reach frozen(F): 0
 
+# Documentation
+https://www.gymlibrary.ml/environments/toy_text/frozen_lake/
